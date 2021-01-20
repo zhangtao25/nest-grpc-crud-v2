@@ -1,0 +1,7 @@
+{
+  "user": "root",
+  "password": "",
+  "database": "grpc-test",
+  "host": "",
+  "port": 3307
+}
